@@ -1,0 +1,26 @@
+{
+  "framework": "plumber",
+  "tests": [
+    {
+      "default": {
+        "json_url": "/json",
+        "plaintext_url": "/plaintext",
+        "port": 8000,
+        "approach": "Realistic",
+        "classification": "Fullstack",
+        "database": "None",
+        "framework": "Plumber",
+        "language": "R",
+        "flavor": "None",
+        "orm": "None",
+        "platform": "None",
+        "webserver": "nginx",
+        "os": "Linux",
+        "database_os": "Linux",
+        "display_name": "Plumber",
+        "notes": "",
+        "versus": "None"
+      }
+    }
+  ]
+}
