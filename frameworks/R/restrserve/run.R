@@ -35,4 +35,4 @@ date_middleware = Middleware$new(
 app$append_middleware(date_middleware)
 
 backend = BackendRserve$new()
-backend$start(app, http_port = 8080)
+backend$start(app, http_port = 8080, keep.alive = TRUE)
